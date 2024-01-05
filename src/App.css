@@ -1,0 +1,10 @@
+/* ... existing styles ... */
+#rocket-button {
+	/* ... */
+	transition: transform 0.6s ease-in-out, opacity 0.35s ease-in-out;
+  }
+  
+  #rocket-button.hidden {
+	transform: translateY(100%);
+	opacity: 0; /* Add opacity for visual clarity */
+  }
