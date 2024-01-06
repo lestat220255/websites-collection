@@ -27,7 +27,7 @@ function RocketButton() {
   return (
     <button
       ref={rocketButtonRef}
-      className="fixed bottom-16 right-16 z-50"
+      className="fixed bottom-16 right-4 z-50"
       onClick={handleClick}
       aria-label="Scroll to top"
     >

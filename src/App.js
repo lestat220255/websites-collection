@@ -89,7 +89,7 @@ function App() {
 
 							<ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 								{item.list.map((website, key) => (
-								(isCN !== true || website.unavailableForCN !== true) && <li key={key} className={`border-2 border-gray-200 rounded hover:shadow-lg duration-500 rounded-lg ${website.tips ? `${website.name}-anchor` : ''}`}>
+								(isCN !== true || website.unavailableForCN !== true) && <li key={key} className={`border-2 border-gray-200 rounded hover:shadow-lg duration-500 rounded-lg ${website.tips ? `\\${index}-${key}-anchor` : ''}`}>
 									<a href={website.url} target="blank" className="flex overflow-hidden p-4">
 										<img src={getFavicon(website.url)} className="w-16 h-16 object-cover" alt={website.name} />
 										<div className="w-4/5 pl-4">
@@ -97,7 +97,7 @@ function App() {
 											<p className="text-gray-700 mb-2 h-10 overflow-auto">{website.desc}</p>
 										</div>
 									</a>
-									<Tooltip render={() => website.tips} anchorSelect={`.${website.name}-anchor`} place="top" clickable>
+									<Tooltip html={website.tips} anchorSelect={`.\\${index}-${key}-anchor`} place="top" clickable>
 									</Tooltip>
 								</li>
 								))}
