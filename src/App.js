@@ -1,8 +1,9 @@
 import './App.css';
 import React, { useState, useEffect, useRef } from 'react';
-import { MapPinIcon, PlayIcon, HomeIcon, BookOpenIcon, CloudIcon, SparklesIcon, StarIcon, Squares2X2Icon, TvIcon, ComputerDesktopIcon, GiftIcon, LinkIcon, WrenchIcon, RocketLaunchIcon, UserGroupIcon, SpeakerWaveIcon, FaceSmileIcon, FilmIcon } from '@heroicons/react/24/solid'
+import { ChatBubbleBottomCenterTextIcon, MapPinIcon, PlayIcon, HomeIcon, BookOpenIcon, CloudIcon, SparklesIcon, StarIcon, Squares2X2Icon, TvIcon, ComputerDesktopIcon, GiftIcon, LinkIcon, WrenchIcon, RocketLaunchIcon, UserGroupIcon, SpeakerWaveIcon, FaceSmileIcon, FilmIcon } from '@heroicons/react/24/solid'
 import { Helmet } from 'react-helmet';
 import RocketButton from './components/RocketButton';
+import { Tooltip } from 'react-tooltip'
 
 
 let isCN = false;
@@ -60,7 +61,8 @@ function App() {
 				UserGroupIcon: UserGroupIcon,
 				SpeakerWaveIcon: SpeakerWaveIcon,
 				FaceSmileIcon: FaceSmileIcon,
-				FilmIcon: FilmIcon
+				FilmIcon: FilmIcon,
+				ChatBubbleBottomCenterTextIcon: ChatBubbleBottomCenterTextIcon
 	}
 
 	return (
@@ -87,7 +89,7 @@ function App() {
 
 							<ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
 								{item.list.map((website, key) => (
-								(isCN !== true || website.unavailableForCN !== true) && <li key={key} className='border-2 border-gray-200 rounded hover:shadow-lg duration-500 rounded-lg'>
+								(isCN !== true || website.unavailableForCN !== true) && <li key={key} className={`border-2 border-gray-200 rounded hover:shadow-lg duration-500 rounded-lg ${website.tips ? `${website.name}-anchor` : ''}`}>
 									<a href={website.url} target="blank" className="flex overflow-hidden p-4">
 										<img src={getFavicon(website.url)} className="w-16 h-16 object-cover" alt={website.name} />
 										<div className="w-4/5 pl-4">
@@ -95,6 +97,8 @@ function App() {
 											<p className="text-gray-700 mb-2 h-10 overflow-auto">{website.desc}</p>
 										</div>
 									</a>
+									<Tooltip render={() => website.tips} anchorSelect={`.${website.name}-anchor`} place="top" clickable>
+									</Tooltip>
 								</li>
 								))}
 							</ul>
