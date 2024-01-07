@@ -118,6 +118,12 @@
 				"name": "老男人论坛",
 				"desc": "",
 				"tips": ""
+			},
+			{
+				"url": "https://hostloc.com/",
+				"name": "全球主机交流",
+				"desc": "",
+				"tips": ""
 			}
 		]
 	},
@@ -202,7 +208,7 @@
 		]
 	},
 	{
-		"name": "学习",
+		"name": "学习/技术栈",
 		"icon": "RocketLaunchIcon",
 		"list": [
 			{
@@ -210,6 +216,12 @@
 				"name": "nextjs",
 				"desc": "全栈一把梭框架",
 				"tips": ""
+			},
+			{
+				"url": "https://astro.build/",
+				"name": "astro",
+				"desc": "高性能，SEO友好的前端框架",
+				"tips": "<a href='https://www.reddit.com/r/reactjs/comments/172v6ug/what_do_you_think_about_astro/' target='blank'>What do you think about Astro?</a>"
 			},
 			{
 				"url": "https://github.com/ossu/computer-science",
@@ -315,13 +327,7 @@
 			},
 			{
 				"url": "https://www.shell.how/",
-				"name": "解释shell命令(推荐)",
-				"desc": "解释shell命令(推荐)",
-				"tips": ""
-			},
-			{
-				"url": "https://command-not-found.com/",
-				"name": "解释shell命令",
+				"name": "shell how",
 				"desc": "解释shell命令",
 				"tips": ""
 			},
@@ -333,27 +339,27 @@
 			},
 			{
 				"url": "https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN",
-				"name": "nginx config",
+				"name": "nginx-config",
 				"desc": "nginx配置生成",
 				"tips": ""
 			},
 			{
 				"url": "https://ingramer.com/downloader/instagram/",
-				"name": "instagram下载",
+				"name": "instagram-download",
 				"desc": "instagram下载",
 				"unavailableForCN": true,
 				"tips": ""
 			},
 			{
 				"url": "https://twittervideodownloader.com/",
-				"name": "twitter下载",
+				"name": "twitter-download",
 				"desc": "twitter下载",
 				"unavailableForCN": true,
 				"tips": ""
 			},
 			{
 				"url": "https://9convert.com/zh-cn2",
-				"name": "youtube下载",
+				"name": "youtube-download",
 				"desc": "youtube下载",
 				"unavailableForCN": true,
 				"tips": ""
@@ -372,19 +378,19 @@
 			},
 			{
 				"url": "https://tmuxcheatsheet.com/",
-				"name": "tmux快捷键",
+				"name": "tmux-shortcuts",
 				"desc": "tmux快捷键",
 				"tips": ""
 			},
 			{
 				"url": "https://www.cs.usfca.edu/~galles/visualization/",
-				"name": "算法可视化",
+				"name": "visualization",
 				"desc": "算法可视化(旧金山大学)",
 				"tips": ""
 			},
 			{
 				"url": "https://toolbox.googleapps.com/apps/main/",
-				"name": "Google工具箱",
+				"name": "Google-toolbox",
 				"desc": "Google工具箱",
 				"unavailableForCN": true,
 				"tips": ""
@@ -439,7 +445,7 @@
 			},
 			{
 				"url": "https://randomuser.me/",
-				"name": "随机用户数据/API",
+				"name": "randomuser",
 				"desc": "随机用户数据/API",
 				"tips": ""
 			},
@@ -631,7 +637,7 @@
 		"list": [
 			{
 				"url": "https://www.hires6.com/",
-				"name": "hifi6(VIP only)",
+				"name": "hifi6",
 				"desc": "仅专注发烧音乐",
 				"tips": ""
 			}
