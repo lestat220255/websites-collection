@@ -260,6 +260,12 @@
 		"icon": "WrenchIcon",
 		"list": [
 			{
+				"url": "https://www.gsmarena.com/",
+				"name": "GSMarena",
+				"desc": "手机评测，对比",
+				"tips": "客观，中立"
+			},
+			{
 				"url": "https://endoflife.date/",
 				"name": "endoflife",
 				"desc": "EOL列表",
