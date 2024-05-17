@@ -48,7 +48,7 @@
 		]
 	},
 	{
-		"name": "Chatbots",
+		"name": "Generative AI",
 		"icon": "ChatBubbleBottomCenterTextIcon",
 		"list": [
 			{
@@ -62,6 +62,11 @@
 				"name": "Bard",
 				"desc": "Google Bard",
 				"tips": "<a href='https://support.google.com/bard/answer/13575153?hl=en' target='blank'>Available countries</a>"
+			},
+			{
+				"url": "https://copilot.microsoft.com/",
+				"name": "Copilot",
+				"desc": "Microsoft Copilot"
 			}
 		]
 	},
