@@ -52,6 +52,17 @@
 		"icon": "ChatBubbleBottomCenterTextIcon",
 		"list": [
 			{
+				"url": "https://www.perplexity.ai/",
+				"name": "Perplexity",
+				"desc": "Perplexity",
+				"tips": "Best for research-oriented AI assistance, A.I.-Powered Search Engine.<br/><a href='https://www.nytimes.com/2024/02/01/technology/perplexity-search-ai-google.html' target='blank'>Can This A.I.-Powered Search Engine Replace Google? It Has for Me.</a>"
+			},
+			{
+				"url": "https://claude.ai/",
+				"name": "claude",
+				"desc": "claude"
+			},
+			{
 				"url": "https://chat.openai.com/",
 				"name": "ChatGPT",
 				"desc": "OpenAI",
