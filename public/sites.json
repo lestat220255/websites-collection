@@ -59,8 +59,8 @@
 			},
 			{
 				"url": "https://claude.ai/",
-				"name": "claude",
-				"desc": "claude"
+				"name": "Claude",
+				"desc": "Claude"
 			},
 			{
 				"url": "https://chat.openai.com/",
@@ -649,6 +649,18 @@
 				"url": "https://www.torrentleech.org/",
 				"name": "torrentleech",
 				"desc": "torrentleech",
+				"tips": ""
+			},
+			{
+				"url": "https://theempire.click/",
+				"name": "Theempire",
+				"desc": "Theempire",
+				"tips": ""
+			},
+			{
+				"url": "https://jptv.club/",
+				"name": "JPTV",
+				"desc": "JPTV",
 				"tips": ""
 			}
 		]
