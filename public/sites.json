@@ -546,6 +546,13 @@
 		"icon": "BookOpenIcon",
 		"list": [
 			{
+				"url": "https://www.fandom.com/",
+				"name": "Fandom",
+				"desc": "全球最大娱乐游戏粉丝WIKI平台",
+				"unavailableForCN": true,
+				"tips": "The world's largest entertainment & gaming fan platform!"
+			},
+			{
 				"url": "https://www.wikipedia.org/",
 				"name": "维基百科",
 				"desc": "维基百科",
