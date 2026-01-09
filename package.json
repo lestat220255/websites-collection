@@ -39,6 +39,6 @@
 	"devDependencies": {
 		"@types/node": "^20.10.6",
 		"react-scripts": "^5.0.1",
-		"wrangler": "^3.0.0"
+		"wrangler": "^4.58.0"
 	}
 }
