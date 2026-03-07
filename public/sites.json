@@ -69,10 +69,10 @@
 				"tips": "<a href='https://chatgptdetector.co/what-countries-is-chat-gpt-available/' target='blank'>Available countries</a>"
 			},
 			{
-				"url": "https://bard.google.com/",
-				"name": "Bard",
-				"desc": "Google Bard",
-				"tips": "<a href='https://support.google.com/bard/answer/13575153?hl=en' target='blank'>Available countries</a>"
+				"url": "https://gemini.google.com/",
+				"name": "Gemini",
+				"desc": "Google Gemini",
+				"tips": "<a href='https://support.google.com/gemini/answer/13575153?hl=en' target='blank'>Available countries</a>"
 			},
 			{
 				"url": "https://copilot.microsoft.com/",
@@ -626,7 +626,7 @@
 				"tips": ""
 			},
 			{
-				"url": "http://rousi.zip/",
+				"url": "http://rousi.pro/",
 				"name": "Rousi",
 				"desc": "站长说这是Rousi的PT站.",
 				"unavailableForCN": true,

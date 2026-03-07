@@ -112,7 +112,7 @@ function App() {
 					{sites && <footer className="bg-gray-800 text-white px-4 py-8 flex flex-col md:flex-row items-center justify-between mt-16">
 						<div className="text-center md:text-left space-y-4">
 							<h2 className="text-xl font-bold">Lester's Curiosity Compass</h2>
-					<p className="text-gray-300">2022 - Now</p>
+					<p className="text-gray-300">2022 - 2026</p>
 					</div>
 					</footer>}
 	</div>
