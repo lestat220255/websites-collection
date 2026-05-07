@@ -311,6 +311,12 @@
 		"icon": "WrenchIcon",
 		"list": [
 			{
+				"url": "https://github.com/christitustech/winutil",
+				"name": "Windows Utility",
+				"desc": "Chris Titus Tech's Windows Utility",
+				"tips": "This utility is a compilation of Windows tasks I perform on each Windows system I use. It is meant to streamline installs, debloat with tweaks, troubleshoot with config, and fix Windows updates. I am extremely picky about any contributions to keep this project clean and efficient."
+			},
+			{
 				"url": "https://www.gsmarena.com/",
 				"name": "GSMarena",
 				"desc": "手机评测，对比",
