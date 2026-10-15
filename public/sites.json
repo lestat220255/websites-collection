@@ -210,13 +210,6 @@
               "tips": ""
             },
             {
-              "url": "https://9convert.com/zh-cn2",
-              "name": "youtube-download",
-              "desc": "youtube下载",
-              "unavailableForCN": true,
-              "tips": ""
-            },
-            {
               "url": "https://chmodcommand.com/",
               "name": "chmod",
               "desc": "chmod",
@@ -801,12 +794,6 @@
               "name": "润学",
               "desc": "迁徙自由，是基本人权； 当然了，讨论真理的言论自由也是基本人权之一。",
               "unavailableForCN": true,
-              "tips": ""
-            },
-            {
-              "url": "https://www.icrc.org/en/nuclear-ban-treaty-no-to-nukes",
-              "name": "We won't survive in a nuclear attack.",
-              "desc": "Let's decide the future of nuclear weapons before they decide ours.",
               "tips": ""
             }
           ]
