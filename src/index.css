@@ -12,6 +12,8 @@
 	--color-magenta: #ff2bd6;
 	--color-amber: #ffb000;
 	--color-lime: #b6ff00;
+	--color-violet: #a06bff;
+	--color-sky: #4da6ff;
 	--color-dim: #8b93b8;
 
 	--animate-blink: blink 1.1s steps(2, start) infinite;
@@ -166,6 +168,16 @@ body {
 	text-underline-offset: 3px;
 }
 .pixel-tip a:hover {
+	color: var(--color-magenta);
+}
+
+/* 详情栏 tips 正文里的链接（可点击） */
+.tips-body a {
+	color: var(--color-neon);
+	text-decoration: underline;
+	text-underline-offset: 3px;
+}
+.tips-body a:hover {
 	color: var(--color-magenta);
 }
 
