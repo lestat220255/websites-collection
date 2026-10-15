@@ -33,7 +33,8 @@
     "deploy": "wrangler deploy",
     "dev": "vite",
     "preview": "vite preview",
-    "favicons": "node scripts/fetch-favicons.mjs"
+    "favicons": "node scripts/fetch-favicons.mjs",
+    "sectors": "node scripts/migrate-sectors.mjs"
   },
   "type": "module",
   "version": "2.0.0"
