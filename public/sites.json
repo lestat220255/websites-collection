@@ -64,6 +64,26 @@
               "url": "https://copilot.microsoft.com/",
               "name": "Copilot",
               "desc": "Microsoft Copilot"
+            },
+            {
+              "url": "https://lmarena.ai",
+              "name": "LMArena",
+              "desc": "大模型匿名对战评测"
+            },
+            {
+              "url": "https://poe.com",
+              "name": "Poe",
+              "desc": "多模型聚合聊天"
+            },
+            {
+              "url": "https://grok.com",
+              "name": "Grok",
+              "desc": "xAI 的对话 AI"
+            },
+            {
+              "url": "https://chat.mistral.ai",
+              "name": "Mistral Le Chat",
+              "desc": "欧洲大模型"
             }
           ]
         },
@@ -95,6 +115,26 @@
               "name": "typescript",
               "desc": "typescript",
               "tips": ""
+            },
+            {
+              "url": "https://codepen.io",
+              "name": "CodePen",
+              "desc": "前端代码在线演示"
+            },
+            {
+              "url": "https://stackblitz.com",
+              "name": "StackBlitz",
+              "desc": "在线 IDE"
+            },
+            {
+              "url": "https://replit.com",
+              "name": "Replit",
+              "desc": "在线编程协作"
+            },
+            {
+              "url": "https://observablehq.com",
+              "name": "Observable",
+              "desc": "数据可视化 notebook"
             }
           ]
         }
@@ -311,6 +351,26 @@
               "name": "在线画画",
               "desc": "在线画画",
               "tips": ""
+            },
+            {
+              "url": "https://alternativeto.net",
+              "name": "AlternativeTo",
+              "desc": "软件替代品查询"
+            },
+            {
+              "url": "https://caniuse.com",
+              "name": "Can I Use",
+              "desc": "浏览器兼容性查询"
+            },
+            {
+              "url": "https://devdocs.io",
+              "name": "DevDocs",
+              "desc": "API 文档聚合"
+            },
+            {
+              "url": "https://excalidraw.com",
+              "name": "Excalidraw",
+              "desc": "手绘风白板"
             }
           ]
         },
@@ -372,6 +432,26 @@
               "name": "refactoringguru",
               "desc": "设计模式",
               "tips": ""
+            },
+            {
+              "url": "https://developer.mozilla.org",
+              "name": "MDN Web Docs",
+              "desc": "Web 开发权威文档"
+            },
+            {
+              "url": "https://freecodecamp.org",
+              "name": "freeCodeCamp",
+              "desc": "免费编程课程"
+            },
+            {
+              "url": "https://www.theodinproject.com",
+              "name": "The Odin Project",
+              "desc": "全栈开源课程"
+            },
+            {
+              "url": "https://cs50.harvard.edu",
+              "name": "CS50",
+              "desc": "哈佛 CS 入门课"
             }
           ]
         },
@@ -391,6 +471,16 @@
               "name": "玩树莓派",
               "desc": "玩法，攻略",
               "tips": ""
+            },
+            {
+              "url": "https://www.ifixit.com",
+              "name": "iFixit",
+              "desc": "设备维修拆解教程"
+            },
+            {
+              "url": "https://www.instructables.com",
+              "name": "Instructables",
+              "desc": "DIY 教程社区"
             }
           ]
         },
@@ -404,6 +494,16 @@
               "name": "AQI",
               "desc": "空气污染实时检索",
               "tips": ""
+            },
+            {
+              "url": "https://www.iqair.com",
+              "name": "IQAir",
+              "desc": "全球空气质量排行"
+            },
+            {
+              "url": "https://www.windy.com",
+              "name": "Windy",
+              "desc": "气象可视化"
             }
           ]
         },
@@ -417,6 +517,21 @@
               "name": "whatpsu",
               "desc": "根据CPU和GPU型号计算电源额定功率",
               "tips": ""
+            },
+            {
+              "url": "https://pcpartpicker.com",
+              "name": "PCPartPicker",
+              "desc": "装机配置单比价"
+            },
+            {
+              "url": "https://www.logicalincrements.com",
+              "name": "Logical Increments",
+              "desc": "按预算装机推荐"
+            },
+            {
+              "url": "https://www.techpowerup.com",
+              "name": "TechPowerUp",
+              "desc": "硬件评测数据库"
             }
           ]
         }
@@ -474,6 +589,16 @@
               "name": "FNP",
               "desc": "FNP",
               "tips": ""
+            },
+            {
+              "url": "https://iptorrents.com",
+              "name": "IPTorrents",
+              "desc": "综合 PT（偶开放注册）"
+            },
+            {
+              "url": "https://torrentday.com",
+              "name": "TorrentDay",
+              "desc": "综合 PT"
             }
           ]
         },
@@ -487,6 +612,11 @@
               "name": "rutracker",
               "desc": "rutracker",
               "tips": ""
+            },
+            {
+              "url": "https://www.limetorrents.cc",
+              "name": "LimeTorrents",
+              "desc": "半公开种子站"
             }
           ]
         },
@@ -506,6 +636,26 @@
               "name": "btdig",
               "desc": "btdig",
               "tips": ""
+            },
+            {
+              "url": "https://1337x.to",
+              "name": "1337x",
+              "desc": "公开种子站"
+            },
+            {
+              "url": "https://torrentgalaxy.to",
+              "name": "TorrentGalaxy",
+              "desc": "公开种子社区"
+            },
+            {
+              "url": "https://yts.mx",
+              "name": "YTS",
+              "desc": "电影种子"
+            },
+            {
+              "url": "https://eztv.re",
+              "name": "EZTV",
+              "desc": "美剧种子"
             }
           ]
         },
@@ -534,6 +684,16 @@
               "desc": "PussyTorrents",
               "unavailableForCN": true,
               "tips": ""
+            },
+            {
+              "url": "https://www.empornium.is",
+              "name": "Empornium",
+              "desc": "成人 PT"
+            },
+            {
+              "url": "https://pornolab.net",
+              "name": "Pornolab",
+              "desc": "俄最大成人 PT（有英文）"
             }
           ]
         }
@@ -628,6 +788,26 @@
               "name": "全球主机交流",
               "desc": "",
               "tips": ""
+            },
+            {
+              "url": "https://stackoverflow.com",
+              "name": "Stack Overflow",
+              "desc": "程序员问答"
+            },
+            {
+              "url": "https://lobste.rs",
+              "name": "Lobsters",
+              "desc": "高质量技术社区"
+            },
+            {
+              "url": "https://www.producthunt.com",
+              "name": "Product Hunt",
+              "desc": "新产品发现"
+            },
+            {
+              "url": "https://www.indiehackers.com",
+              "name": "Indie Hackers",
+              "desc": "独立开发者社区"
             }
           ]
         },
@@ -665,6 +845,26 @@
               "name": "暗黑核",
               "desc": "暗黑4技能模拟器、暗黑4巅峰模拟器，职业模拟、加点模拟、雕文模拟与分享",
               "tips": ""
+            },
+            {
+              "url": "https://maxroll.gg",
+              "name": "Maxroll",
+              "desc": "暗黑/PoE 配装攻略"
+            },
+            {
+              "url": "https://www.wowhead.com",
+              "name": "Wowhead",
+              "desc": "魔兽世界数据库"
+            },
+            {
+              "url": "https://fextralife.com",
+              "name": "Fextralife",
+              "desc": "魂系游戏 wiki"
+            },
+            {
+              "url": "https://www.pcgamingwiki.com",
+              "name": "PCGamingWiki",
+              "desc": "PC 游戏修复指南"
             }
           ]
         },
@@ -696,6 +896,21 @@
               "name": "Misskey",
               "desc": "Misskey",
               "tips": ""
+            },
+            {
+              "url": "https://join-lemmy.org",
+              "name": "Lemmy",
+              "desc": "去中心化论坛"
+            },
+            {
+              "url": "https://pixelfed.org",
+              "name": "Pixelfed",
+              "desc": "去中心化图片分享"
+            },
+            {
+              "url": "https://joinpeertube.org",
+              "name": "PeerTube",
+              "desc": "去中心化视频"
             }
           ]
         }
@@ -725,6 +940,16 @@
               "desc": "奈飞",
               "unavailableForCN": true,
               "tips": ""
+            },
+            {
+              "url": "https://www.twitch.tv",
+              "name": "Twitch",
+              "desc": "游戏直播"
+            },
+            {
+              "url": "https://vimeo.com",
+              "name": "Vimeo",
+              "desc": "高质量视频平台"
             }
           ]
         },
@@ -739,6 +964,21 @@
               "desc": "Google Podacsts",
               "unavailableForCN": true,
               "tips": ""
+            },
+            {
+              "url": "https://podcasts.apple.com",
+              "name": "Apple Podcasts",
+              "desc": "播客目录"
+            },
+            {
+              "url": "https://overcast.fm",
+              "name": "Overcast",
+              "desc": "播客客户端"
+            },
+            {
+              "url": "https://pocketcasts.com",
+              "name": "Pocket Casts",
+              "desc": "播客客户端"
             }
           ]
         },
@@ -752,6 +992,21 @@
               "name": "DoujinStyle",
               "desc": "The Home of Doujin Music and Games",
               "tips": ""
+            },
+            {
+              "url": "https://www.audiosciencereview.com",
+              "name": "Audio Science Review",
+              "desc": "科学音频评测"
+            },
+            {
+              "url": "https://hifiguides.com",
+              "name": "HiFiGuides",
+              "desc": "耳机选购指南"
+            },
+            {
+              "url": "https://www.headphones.com",
+              "name": "headphones.com",
+              "desc": "耳机评测"
             }
           ]
         }
@@ -781,6 +1036,21 @@
               "desc": "维基百科",
               "unavailableForCN": true,
               "tips": ""
+            },
+            {
+              "url": "https://www.britannica.com",
+              "name": "Britannica",
+              "desc": "大英百科全书"
+            },
+            {
+              "url": "http://www.scholarpedia.org",
+              "name": "Scholarpedia",
+              "desc": "学者评审维基"
+            },
+            {
+              "url": "https://www.wikiwand.com",
+              "name": "Wikiwand",
+              "desc": "维基美化前端"
             }
           ]
         },
@@ -795,6 +1065,16 @@
               "desc": "迁徙自由，是基本人权； 当然了，讨论真理的言论自由也是基本人权之一。",
               "unavailableForCN": true,
               "tips": ""
+            },
+            {
+              "url": "https://waitbutwhy.com",
+              "name": "Wait But Why",
+              "desc": "深度长文/未来主义"
+            },
+            {
+              "url": "https://www.futuretimeline.net",
+              "name": "FutureTimeline",
+              "desc": "未来预测时间线"
             }
           ]
         }
