@@ -1,20 +1,36 @@
-# Template: worker-sites-react
+# Lester's Curiosity Compass
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/worker-sites-react)
+个人网页收藏导航 —— 赛博像素风。部署在 Cloudflare Workers。
 
-This project is a React application generated with [create-react-app](https://github.com/facebook/create-react-app), and deployed with [Workers Sites](https://developers.cloudflare.com/workers/sites).
+## 技术栈
 
-To learn how to deploy your own sites to Workers, check out the [video tutorial](https://www.youtube.com/watch?v=6YC3MgVwCGA) and [text tutorial](https://developers.cloudflare.com/workers/tutorials/deploy-a-react-app) that correspond with this project!
+- [Vite](https://vitejs.dev/) 7 + [React](https://react.dev/) 19
+- [Tailwind CSS](https://tailwindcss.com/) v4（`@tailwindcss/vite` 插件，CSS-first 配置）
+- `@heroicons/react`、`react-helmet-async`
+- Cloudflare Workers（`wrangler.toml`，`[site]` 静态资源托管）
 
-## Setup
-
-To create a `my-project` directory using this template, run:
+## 本地开发
 
 ```sh
-$ npx wrangler generate my-project worker-sites-react
-# or
-$ yarn wrangler generate my-project worker-sites-react
-# or
-$ pnpm wrangler generate my-project worker-sites-react
+npm install
+npm run dev      # 启动开发服务器
+npm run build    # 生产构建，产物在 dist/
+npm run preview  # 本地预览构建产物
 ```
-# websites-collection
+
+## 部署
+
+推送到 GitHub 后，Cloudflare 会自动执行 `npm run build` 并部署 `dist/`。
+
+## 书签数据
+
+所有收藏站点在 `public/sites.json` 中维护，按 `name` 分组，每组有 `icon`（heroicons 名）
+和 `list`（`url` / `name` / `desc` / `tips`，`tips` 支持 HTML，悬停显示）。
+
+## 2026-10 大升级记录
+
+- CRA（react-scripts）→ Vite 迁移；构建失败根因：Tailwind v4 已移除裸 `tailwindcss`
+  PostCSS 插件，而 CRA 检测到 `tailwind.config.js` 会自动加载它
+- React 19：`ReactDOM.render` → `createRoot`
+- `react-helmet` → `react-helmet-async`；移除 `lodash`（自研 debounce）、`react-tooltip`（自研 CSS tooltip）
+- 样式重做为赛博像素风（`src/index.css` 设计系统）
