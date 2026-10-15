@@ -3,7 +3,7 @@ main = "./worker/index.js"
 compatibility_date = "2022-05-03"
 
 [build]
-command = "npm run react:build"
+command = "npm run build"
 
 [site]
-bucket = "./build"
+bucket = "./dist"
