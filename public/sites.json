@@ -1,752 +1,817 @@
-[
-	{
-		"name": "Pinned",
-		"icon": "MapPinIcon",
-		"list": [
-			{
-				"url": "https://roadmap.sh",
-				"name": "技术路线图",
-				"desc": "guide developers in picking up a path and guide their learnings",
-				"tips": "扩展技术栈的不二选择！"
-			},
-			{
-				"url": "https://huggingface.co/",
-				"name": "AI开源资源",
-				"desc": "通过开源和开放科学推进和民主化人工智能",
-				"tips": ""
-			},
-			{
-				"url": "https://pll.harvard.edu/subject/computer-science",
-				"name": "CS50",
-				"desc": "哈弗计算机科学公开课",
-				"tips": ""
-			},
-			{
-				"url": "https://www.omnicalculator.com/",
-				"name": "Calculators",
-				"desc": "3000+ Free Calculators!!!",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "Tutorials",
-		"icon": "BookOpenIcon",
-		"list": [
-			{
-				"url": "https://hackintosh.com/",
-				"name": "黑苹果",
-				"desc": "黑苹果教程",
-				"tips": ""
-			},
-			{
-				"url": "https://pimylifeup.com/",
-				"name": "玩树莓派",
-				"desc": "玩法，攻略",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "Generative AI",
-		"icon": "ChatBubbleBottomCenterTextIcon",
-		"list": [
-			{
-				"url": "https://www.perplexity.ai/",
-				"name": "Perplexity",
-				"desc": "Perplexity",
-				"tips": "Best for research-oriented AI assistance, A.I.-Powered Search Engine.<br/><a href='https://www.nytimes.com/2024/02/01/technology/perplexity-search-ai-google.html' target='blank'>Can This A.I.-Powered Search Engine Replace Google? It Has for Me.</a>"
-			},
-			{
-				"url": "https://claude.ai/",
-				"name": "Claude",
-				"desc": "Claude"
-			},
-			{
-				"url": "https://chat.openai.com/",
-				"name": "ChatGPT",
-				"desc": "OpenAI",
-				"tips": "<a href='https://chatgptdetector.co/what-countries-is-chat-gpt-available/' target='blank'>Available countries</a>"
-			},
-			{
-				"url": "https://gemini.google.com/",
-				"name": "Gemini",
-				"desc": "Google Gemini",
-				"tips": "<a href='https://support.google.com/gemini/answer/13575153?hl=en' target='blank'>Available countries</a>"
-			},
-			{
-				"url": "https://copilot.microsoft.com/",
-				"name": "Copilot",
-				"desc": "Microsoft Copilot"
-			}
-		]
-	},
-	{
-		"name": "社区",
-		"icon": "PlayIcon",
-		"list": [
-			{
-				"url": "https://github.com/trending",
-				"name": "Trending",
-				"desc": "Github Trending",
-				"tips": ""
-			},
-			{
-				"url": "https://crinacle.com/",
-				"name": "Crinacle Rankings for IEM and Headphones",
-				"desc": "关注度较高的耳机排名榜单",
-				"tips": ""
-			},
-			{
-				"url": "https://www.rtings.com/",
-				"name": "评测打分网站",
-				"desc": "评测打分网站",
-				"tips": "Find the best products for your needs, based on our reviews, ratings and recommendations."
-			},
-			{
-				"url": "https://www.head-fi.org/",
-				"name": "Head-Fi",
-				"desc": "Head-Fi",
-				"tips": ""
-			},
-			{
-				"url": "http://erji.net/",
-				"name": "耳机大家坛",
-				"desc": "耳机大家坛"
-			},
-			{
-				"url": "https://www.reddit.com/",
-				"name": "Reddit",
-				"desc": "Reddit",
-				"unavailableForCN": true,
-				"tips": ""
-			},
-			{
-				"url": "https://dev.to/",
-				"name": "DEV",
-				"desc": "DEV Community 👩‍💻👨‍💻",
-				"tips": ""
-			},
-			{
-				"url": "https://v2ex.com/",
-				"name": "V2EX",
-				"desc": "社区",
-				"unavailableForCN": true,
-				"tips": ""
-			},
-			{
-				"url": "https://www.hackernoon.com/",
-				"name": "hackernoon",
-				"desc": "hackernoon",
-				"tips": ""
-			},
-			{
-				"url": "https://news.ycombinator.com/",
-				"name": "Hacker News",
-				"desc": "Hacker News",
-				"tips": ""
-			},
-			{
-				"url": "https://www.github.com/",
-				"name": "github",
-				"desc": "github",
-				"tips": ""
-			},
-			{
-				"url": "https://bbs.oldmantvg.net/",
-				"name": "老男人论坛",
-				"desc": "",
-				"tips": ""
-			},
-			{
-				"url": "https://hostloc.com/",
-				"name": "全球主机交流",
-				"desc": "",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "播客",
-		"icon": "PlayIcon",
-		"list": [
-			{
-				"url": "https://podcasts.google.com/",
-				"name": "Google Podacsts",
-				"desc": "Google Podacsts",
-				"unavailableForCN": true,
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "游戏社区",
-		"icon": "PlayIcon",
-		"list": [
-			{
-				"url": "https://helltides.com/",
-				"name": "Helltide Schedule",
-				"desc": "地狱浪潮,世界Boss,军团集结时间表",
-				"tips": ""
-			},
-			{
-				"url": "https://d4builds.gg/",
-				"name": "d4builds.gg",
-				"desc": "暗黑四加点参考",
-				"tips": ""
-			},
-			{
-				"url": "https://www.icy-veins.com/",
-				"name": "icy-veins",
-				"desc": "新闻，攻略",
-				"tips": ""
-			},
-			{
-				"url": "https://gnn.gamer.com.tw/",
-				"name": "巴哈姆特",
-				"desc": "巴哈姆特",
-				"tips": ""
-			},
-			{
-				"url": "https://www.d2core.com/",
-				"name": "暗黑核",
-				"desc": "暗黑4技能模拟器、暗黑4巅峰模拟器，职业模拟、加点模拟、雕文模拟与分享",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "环境",
-		"icon": "CloudIcon",
-		"list": [
-			{
-				"url": "https://waqi.info/",
-				"name": "AQI",
-				"desc": "空气污染实时检索",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "Future",
-		"icon": "RocketLaunchIcon",
-		"list": [
-			{
-				"url": "https://github.com/The-Run-Philosophy-Organization/run",
-				"name": "润学",
-				"desc": "迁徙自由，是基本人权； 当然了，讨论真理的言论自由也是基本人权之一。",
-				"unavailableForCN": true,
-				"tips": ""
-			},
-			{
-				"url": "https://www.icrc.org/en/nuclear-ban-treaty-no-to-nukes",
-				"name": "We won't survive in a nuclear attack.",
-				"desc": "Let's decide the future of nuclear weapons before they decide ours.",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "学习/技术栈",
-		"icon": "RocketLaunchIcon",
-		"list": [
-			{
-				"url": "https://nextjs.org/docs",
-				"name": "nextjs",
-				"desc": "全栈一把梭框架",
-				"tips": ""
-			},
-			{
-				"url": "https://astro.build/",
-				"name": "astro",
-				"desc": "高性能，SEO友好的前端框架",
-				"tips": "<a href='https://www.reddit.com/r/reactjs/comments/172v6ug/what_do_you_think_about_astro/' target='blank'>What do you think about Astro?</a>"
-			},
-			{
-				"url": "https://github.com/ossu/computer-science",
-				"name": "Computer-Science",
-				"desc": "Computer-Science",
-				"tips": ""
-			},
-			{
-				"url": "https://www.tailwindcss.com/docs/installation",
-				"name": "tailwindcss",
-				"desc": "tailwindcss",
-				"tips": ""
-			},
-			{
-				"url": "https://v3.cn.vuejs.org/",
-				"name": "vue",
-				"desc": "vue",
-				"tips": ""
-			},
-			{
-				"url": "https://laravel.com/",
-				"name": "laravel",
-				"desc": "laravel",
-				"tips": ""
-			},
-			{
-				"url": "https://www.docker.com",
-				"name": "docker",
-				"desc": "docker",
-				"tips": ""
-			},
-			{
-				"url": "https://web.qianguyihao.com",
-				"name": "前端学习",
-				"desc": "前端学习",
-				"tips": ""
-			},
-			{
-				"url": "https://refactoringguru.cn/",
-				"name": "refactoringguru",
-				"desc": "设计模式",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "工具",
-		"icon": "WrenchIcon",
-		"list": [
-			{
-				"url": "https://github.com/christitustech/winutil",
-				"name": "Windows Utility",
-				"desc": "Chris Titus Tech's Windows Utility",
-				"tips": "This utility is a compilation of Windows tasks I perform on each Windows system I use. It is meant to streamline installs, debloat with tweaks, troubleshoot with config, and fix Windows updates. I am extremely picky about any contributions to keep this project clean and efficient."
-			},
-			{
-				"url": "https://www.gsmarena.com/",
-				"name": "GSMarena",
-				"desc": "手机评测，对比",
-				"tips": "客观，中立"
-			},
-			{
-				"url": "https://endoflife.date/",
-				"name": "endoflife",
-				"desc": "EOL列表",
-				"tips": ""
-			},
-			{
-				"url": "https://github.com/sivel/speedtest-cli/",
-				"name": "speedtest-cli",
-				"desc": "网速测试CLI",
-				"tips": ""
-			},
-			{
-				"url": "https://ping.sx/",
-				"name": "Ping.Sx",
-				"desc": "服务器网络测试",
-				"tips": ""
-			},
-			{
-				"url": "https://github.com/dani-garcia/vaultwarden",
-				"name": "vaultwarden",
-				"desc": "自建密码管理,bitwarden替代品",
-				"tips": ""
-			},
-			{
-				"url": "https://hardwaretester.com/",
-				"name": "硬件测试",
-				"desc": "显卡，手柄，话筒，MIDI",
-				"tips": ""
-			},
-			{
-				"url": "https://ipinfo.io/",
-				"name": "ipinfo",
-				"desc": "IP信息",
-				"tips": ""
-			},
-			{
-				"url": "https://lookup.icann.org/",
-				"name": "whois",
-				"desc": "whois",
-				"tips": ""
-			},
-			{
-				"url": "https://scamalytics.com/",
-				"name": "scamalytics",
-				"desc": "IP纯净度检测",
-				"tips": ""
-			},
-			{
-				"url": "https://crontab.guru/",
-				"name": "定时任务",
-				"desc": "crontab",
-				"tips": ""
-			},
-			{
-				"url": "https://www.shell.how/",
-				"name": "shell how",
-				"desc": "解释shell命令",
-				"tips": ""
-			},
-			{
-				"url": "https://www.freeformatter.com/",
-				"name": "formatter",
-				"desc": "formatter",
-				"tips": ""
-			},
-			{
-				"url": "https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN",
-				"name": "nginx-config",
-				"desc": "nginx配置生成",
-				"tips": ""
-			},
-			{
-				"url": "https://ingramer.com/downloader/instagram/",
-				"name": "instagram-download",
-				"desc": "instagram下载",
-				"unavailableForCN": true,
-				"tips": ""
-			},
-			{
-				"url": "https://twittervideodownloader.com/",
-				"name": "twitter-download",
-				"desc": "twitter下载",
-				"unavailableForCN": true,
-				"tips": ""
-			},
-			{
-				"url": "https://9convert.com/zh-cn2",
-				"name": "youtube-download",
-				"desc": "youtube下载",
-				"unavailableForCN": true,
-				"tips": ""
-			},
-			{
-				"url": "https://chmodcommand.com/",
-				"name": "chmod",
-				"desc": "chmod",
-				"tips": ""
-			},
-			{
-				"url": "https://regex101.com/",
-				"name": "regex",
-				"desc": "regex",
-				"tips": ""
-			},
-			{
-				"url": "https://tmuxcheatsheet.com/",
-				"name": "tmux-shortcuts",
-				"desc": "tmux快捷键",
-				"tips": ""
-			},
-			{
-				"url": "https://www.cs.usfca.edu/~galles/visualization/",
-				"name": "visualization",
-				"desc": "算法可视化(旧金山大学)",
-				"tips": ""
-			},
-			{
-				"url": "https://toolbox.googleapps.com/apps/main/",
-				"name": "Google-toolbox",
-				"desc": "Google工具箱",
-				"unavailableForCN": true,
-				"tips": ""
-			},
-			{
-				"url": "https://time.is/",
-				"name": "Time",
-				"desc": "时间",
-				"tips": ""
-			},
-			{
-				"url": "https://currency.world/",
-				"name": "currency",
-				"desc": "货币转换",
-				"tips": ""
-			},
-			{
-				"url": "https://www.similarweb.com/",
-				"name": "相似网站查询",
-				"desc": "相似网站查询",
-				"tips": ""
-			},
-			{
-				"url": "https://awesomeopensource.com/",
-				"name": "开源项目搜索",
-				"desc": "开源项目搜索",
-				"tips": ""
-			},
-			{
-				"url": "https://pkg.go.dev/",
-				"name": "pkg.go.dev",
-				"desc": "pkg.go.dev",
-				"tips": ""
-			},
-			{
-				"url": "https://cn.dll-files.com/",
-				"name": "dll下载",
-				"desc": "dll下载",
-				"tips": ""
-			},
-			{
-				"url": "https://ryzencontroller.com/",
-				"name": "AMD锐龙功耗调教",
-				"desc": "AMD锐龙功耗调教",
-				"tips": ""
-			},
-			{
-				"url": "https://iptablesgenerator.totalbits.com/",
-				"name": "iptables生成",
-				"desc": "iptables生成",
-				"tips": ""
-			},
-			{
-				"url": "https://randomuser.me/",
-				"name": "randomuser",
-				"desc": "随机用户数据/API",
-				"tips": ""
-			},
-			{
-				"url": "https://cyberchef.88992323.xyz/",
-				"name": "网络工具",
-				"desc": "网络工具",
-				"tips": ""
-			},
-			{
-				"url": "https://winget.run/",
-				"name": "Windows装机软件",
-				"desc": "Windows装机软件",
-				"tips": ""
-			},
-			{
-				"url": "https://stablediffusionweb.com/",
-				"name": "在线画画",
-				"desc": "在线画画",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "Playground",
-		"icon": "PlayIcon",
-		"list": [
-			{
-				"url": "https://tour.golang.org/welcome/4",
-				"name": "A Tour of Go",
-				"desc": "A Tour of Go",
-				"tips": ""
-			},
-			{
-				"url": "https://play.tailwindcss.com/",
-				"name": "tailwindcss",
-				"desc": "tailwindcss",
-				"tips": ""
-			},
-			{
-				"url": "https://playcode.io/",
-				"name": "front-end playground",
-				"desc": "javascript, html, css playground",
-				"tips": ""
-			},
-			{
-				"url": "https://www.typescriptlang.org/play",
-				"name": "typescript",
-				"desc": "typescript",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "流媒体",
-		"icon": "PlayIcon",
-		"list": [
-			{
-				"url": "https://www.youtube.com",
-				"name": "油管",
-				"desc": "油管",
-				"unavailableForCN": true,
-				"tips": ""
-			},
-			{
-				"url": "https://www.netflix.com/",
-				"name": "网飞",
-				"desc": "奈飞",
-				"unavailableForCN": true,
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "百科",
-		"icon": "BookOpenIcon",
-		"list": [
-			{
-				"url": "https://www.fandom.com/",
-				"name": "Fandom",
-				"desc": "全球最大娱乐游戏粉丝WIKI平台",
-				"unavailableForCN": true,
-				"tips": "The world's largest entertainment & gaming fan platform!"
-			},
-			{
-				"url": "https://www.wikipedia.org/",
-				"name": "维基百科",
-				"desc": "维基百科",
-				"unavailableForCN": true,
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "Semi-private Trackers",
-		"icon": "FilmIcon",
-		"list": [
-			{
-				"url": "https://rutracker.org/",
-				"name": "rutracker",
-				"desc": "rutracker",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "Public Trackers",
-		"icon": "FilmIcon",
-		"list": [
-			{
-				"url": "https://thepiratebay.org/",
-				"name": "thepiratebay",
-				"desc": "thepiratebay",
-				"tips": ""
-			},
-			{
-				"url": "https://btdig.com/",
-				"name": "btdig",
-				"desc": "btdig",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "Porn Private Trackers",
-		"icon": "FilmIcon",
-		"list": [
-			{
-				"url": "https://ssl.bootytape.com/",
-				"name": "bootytape",
-				"desc": "bootytape",
-				"unavailableForCN": true,
-				"tips": ""
-			},
-			{
-				"url": "http://rousi.pro/",
-				"name": "Rousi",
-				"desc": "站长说这是Rousi的PT站.",
-				"unavailableForCN": true,
-				"tips": ""
-			},
-			{
-				"url": "http://pussytorrents.org/",
-				"name": "PussyTorrents",
-				"desc": "PussyTorrents",
-				"unavailableForCN": true,
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "PC DIY",
-		"icon": "WrenchIcon",
-		"list": [
-			{
-				"url": "https://www.whatpsu.com/",
-				"name": "whatpsu",
-				"desc": "根据CPU和GPU型号计算电源额定功率",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "PT站",
-		"icon": "FilmIcon",
-		"list": [
-			{
-				"url": "https://pt.btschool.club/",
-				"name": "PTSCHOOL",
-				"desc": "PTSCHOOL",
-				"tips": ""
-			},
-			{
-				"url": "https://pt.soulvoice.club/",
-				"name": "聆音Club",
-				"desc": "聆音Club",
-				"tips": ""
-			},
-			{
-				"url": "https://hd-space.org/",
-				"name": "HD-Space",
-				"desc": "HD-Space",
-				"tips": ""
-			},
-			{
-				"url": "https://www.torrentleech.org/",
-				"name": "torrentleech",
-				"desc": "torrentleech",
-				"tips": ""
-			},
-			{
-				"url": "https://theempire.click/",
-				"name": "Theempire",
-				"desc": "Theempire",
-				"tips": ""
-			},
-			{
-				"url": "https://jptv.club/",
-				"name": "JPTV",
-				"desc": "JPTV",
-				"tips": ""
-			},
-			{
-				"url": "https://fearnopeer.com/",
-				"name": "FNP",
-				"desc": "FNP",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "HIFI",
-		"icon": "PlayIcon",
-		"list": [
-			{
-				"url": "https://doujinstyle.com/",
-				"name": "DoujinStyle",
-				"desc": "The Home of Doujin Music and Games",
-				"tips": ""
-			}
-		]
-	},
-	{
-		"name": "Fediverse|联邦宇宙|去中心化社区群",
-		"icon": "PlayIcon",
-		"list": [
-			{
-				"url": "https://fediverse.party/",
-				"name": "Fediverse",
-				"desc": "主站",
-				"tips": ""
-			},
-			{
-				"url": "https://fediverse.party/en/portal/servers/",
-				"name": "Themed servers",
-				"desc": "索引",
-				"tips": ""
-			},
-			{
-				"url": "https://mastodon.social/",
-				"name": "Mastodon",
-				"desc": "Mastodon",
-				"tips": ""
-			},
-			{
-				"url": "https://misskey.io/",
-				"name": "Misskey",
-				"desc": "Misskey",
-				"tips": ""
-			}
-		]
-	}
-]
+{
+  "pinned": [
+    {
+      "url": "https://roadmap.sh",
+      "name": "技术路线图",
+      "desc": "guide developers in picking up a path and guide their learnings",
+      "tips": "扩展技术栈的不二选择！"
+    },
+    {
+      "url": "https://huggingface.co/",
+      "name": "AI开源资源",
+      "desc": "通过开源和开放科学推进和民主化人工智能",
+      "tips": ""
+    },
+    {
+      "url": "https://pll.harvard.edu/subject/computer-science",
+      "name": "CS50",
+      "desc": "哈弗计算机科学公开课",
+      "tips": ""
+    },
+    {
+      "url": "https://www.omnicalculator.com/",
+      "name": "Calculators",
+      "desc": "3000+ Free Calculators!!!",
+      "tips": ""
+    }
+  ],
+  "sectors": [
+    {
+      "id": "ai-lab",
+      "name": "AI LAB",
+      "icon": "CpuChipIcon",
+      "color": "neon",
+      "groups": [
+        {
+          "id": "Generative AI",
+          "name": "Generative AI",
+          "icon": "ChatBubbleBottomCenterTextIcon",
+          "list": [
+            {
+              "url": "https://www.perplexity.ai/",
+              "name": "Perplexity",
+              "desc": "Perplexity",
+              "tips": "Best for research-oriented AI assistance, A.I.-Powered Search Engine.<br/><a href='https://www.nytimes.com/2024/02/01/technology/perplexity-search-ai-google.html' target='blank'>Can This A.I.-Powered Search Engine Replace Google? It Has for Me.</a>"
+            },
+            {
+              "url": "https://claude.ai/",
+              "name": "Claude",
+              "desc": "Claude"
+            },
+            {
+              "url": "https://chat.openai.com/",
+              "name": "ChatGPT",
+              "desc": "OpenAI",
+              "tips": "<a href='https://chatgptdetector.co/what-countries-is-chat-gpt-available/' target='blank'>Available countries</a>"
+            },
+            {
+              "url": "https://gemini.google.com/",
+              "name": "Gemini",
+              "desc": "Google Gemini",
+              "tips": "<a href='https://support.google.com/gemini/answer/13575153?hl=en' target='blank'>Available countries</a>"
+            },
+            {
+              "url": "https://copilot.microsoft.com/",
+              "name": "Copilot",
+              "desc": "Microsoft Copilot"
+            }
+          ]
+        },
+        {
+          "id": "Playground",
+          "name": "Playground",
+          "icon": "PlayIcon",
+          "list": [
+            {
+              "url": "https://tour.golang.org/welcome/4",
+              "name": "A Tour of Go",
+              "desc": "A Tour of Go",
+              "tips": ""
+            },
+            {
+              "url": "https://play.tailwindcss.com/",
+              "name": "tailwindcss",
+              "desc": "tailwindcss",
+              "tips": ""
+            },
+            {
+              "url": "https://playcode.io/",
+              "name": "front-end playground",
+              "desc": "javascript, html, css playground",
+              "tips": ""
+            },
+            {
+              "url": "https://www.typescriptlang.org/play",
+              "name": "typescript",
+              "desc": "typescript",
+              "tips": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dev-forge",
+      "name": "DEV FORGE",
+      "icon": "WrenchIcon",
+      "color": "lime",
+      "groups": [
+        {
+          "id": "工具",
+          "name": "工具",
+          "icon": "WrenchIcon",
+          "list": [
+            {
+              "url": "https://github.com/christitustech/winutil",
+              "name": "Windows Utility",
+              "desc": "Chris Titus Tech's Windows Utility",
+              "tips": "This utility is a compilation of Windows tasks I perform on each Windows system I use. It is meant to streamline installs, debloat with tweaks, troubleshoot with config, and fix Windows updates. I am extremely picky about any contributions to keep this project clean and efficient."
+            },
+            {
+              "url": "https://www.gsmarena.com/",
+              "name": "GSMarena",
+              "desc": "手机评测，对比",
+              "tips": "客观，中立"
+            },
+            {
+              "url": "https://endoflife.date/",
+              "name": "endoflife",
+              "desc": "EOL列表",
+              "tips": ""
+            },
+            {
+              "url": "https://github.com/sivel/speedtest-cli/",
+              "name": "speedtest-cli",
+              "desc": "网速测试CLI",
+              "tips": ""
+            },
+            {
+              "url": "https://ping.sx/",
+              "name": "Ping.Sx",
+              "desc": "服务器网络测试",
+              "tips": ""
+            },
+            {
+              "url": "https://github.com/dani-garcia/vaultwarden",
+              "name": "vaultwarden",
+              "desc": "自建密码管理,bitwarden替代品",
+              "tips": ""
+            },
+            {
+              "url": "https://hardwaretester.com/",
+              "name": "硬件测试",
+              "desc": "显卡，手柄，话筒，MIDI",
+              "tips": ""
+            },
+            {
+              "url": "https://ipinfo.io/",
+              "name": "ipinfo",
+              "desc": "IP信息",
+              "tips": ""
+            },
+            {
+              "url": "https://lookup.icann.org/",
+              "name": "whois",
+              "desc": "whois",
+              "tips": ""
+            },
+            {
+              "url": "https://scamalytics.com/",
+              "name": "scamalytics",
+              "desc": "IP纯净度检测",
+              "tips": ""
+            },
+            {
+              "url": "https://crontab.guru/",
+              "name": "定时任务",
+              "desc": "crontab",
+              "tips": ""
+            },
+            {
+              "url": "https://www.shell.how/",
+              "name": "shell how",
+              "desc": "解释shell命令",
+              "tips": ""
+            },
+            {
+              "url": "https://www.freeformatter.com/",
+              "name": "formatter",
+              "desc": "formatter",
+              "tips": ""
+            },
+            {
+              "url": "https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN",
+              "name": "nginx-config",
+              "desc": "nginx配置生成",
+              "tips": ""
+            },
+            {
+              "url": "https://ingramer.com/downloader/instagram/",
+              "name": "instagram-download",
+              "desc": "instagram下载",
+              "unavailableForCN": true,
+              "tips": ""
+            },
+            {
+              "url": "https://twittervideodownloader.com/",
+              "name": "twitter-download",
+              "desc": "twitter下载",
+              "unavailableForCN": true,
+              "tips": ""
+            },
+            {
+              "url": "https://9convert.com/zh-cn2",
+              "name": "youtube-download",
+              "desc": "youtube下载",
+              "unavailableForCN": true,
+              "tips": ""
+            },
+            {
+              "url": "https://chmodcommand.com/",
+              "name": "chmod",
+              "desc": "chmod",
+              "tips": ""
+            },
+            {
+              "url": "https://regex101.com/",
+              "name": "regex",
+              "desc": "regex",
+              "tips": ""
+            },
+            {
+              "url": "https://tmuxcheatsheet.com/",
+              "name": "tmux-shortcuts",
+              "desc": "tmux快捷键",
+              "tips": ""
+            },
+            {
+              "url": "https://www.cs.usfca.edu/~galles/visualization/",
+              "name": "visualization",
+              "desc": "算法可视化(旧金山大学)",
+              "tips": ""
+            },
+            {
+              "url": "https://toolbox.googleapps.com/apps/main/",
+              "name": "Google-toolbox",
+              "desc": "Google工具箱",
+              "unavailableForCN": true,
+              "tips": ""
+            },
+            {
+              "url": "https://time.is/",
+              "name": "Time",
+              "desc": "时间",
+              "tips": ""
+            },
+            {
+              "url": "https://currency.world/",
+              "name": "currency",
+              "desc": "货币转换",
+              "tips": ""
+            },
+            {
+              "url": "https://www.similarweb.com/",
+              "name": "相似网站查询",
+              "desc": "相似网站查询",
+              "tips": ""
+            },
+            {
+              "url": "https://awesomeopensource.com/",
+              "name": "开源项目搜索",
+              "desc": "开源项目搜索",
+              "tips": ""
+            },
+            {
+              "url": "https://pkg.go.dev/",
+              "name": "pkg.go.dev",
+              "desc": "pkg.go.dev",
+              "tips": ""
+            },
+            {
+              "url": "https://cn.dll-files.com/",
+              "name": "dll下载",
+              "desc": "dll下载",
+              "tips": ""
+            },
+            {
+              "url": "https://ryzencontroller.com/",
+              "name": "AMD锐龙功耗调教",
+              "desc": "AMD锐龙功耗调教",
+              "tips": ""
+            },
+            {
+              "url": "https://iptablesgenerator.totalbits.com/",
+              "name": "iptables生成",
+              "desc": "iptables生成",
+              "tips": ""
+            },
+            {
+              "url": "https://randomuser.me/",
+              "name": "randomuser",
+              "desc": "随机用户数据/API",
+              "tips": ""
+            },
+            {
+              "url": "https://cyberchef.88992323.xyz/",
+              "name": "网络工具",
+              "desc": "网络工具",
+              "tips": ""
+            },
+            {
+              "url": "https://winget.run/",
+              "name": "Windows装机软件",
+              "desc": "Windows装机软件",
+              "tips": ""
+            },
+            {
+              "url": "https://stablediffusionweb.com/",
+              "name": "在线画画",
+              "desc": "在线画画",
+              "tips": ""
+            }
+          ]
+        },
+        {
+          "id": "学习/技术栈",
+          "name": "学习/技术栈",
+          "icon": "RocketLaunchIcon",
+          "list": [
+            {
+              "url": "https://nextjs.org/docs",
+              "name": "nextjs",
+              "desc": "全栈一把梭框架",
+              "tips": ""
+            },
+            {
+              "url": "https://astro.build/",
+              "name": "astro",
+              "desc": "高性能，SEO友好的前端框架",
+              "tips": "<a href='https://www.reddit.com/r/reactjs/comments/172v6ug/what_do_you_think_about_astro/' target='blank'>What do you think about Astro?</a>"
+            },
+            {
+              "url": "https://github.com/ossu/computer-science",
+              "name": "Computer-Science",
+              "desc": "Computer-Science",
+              "tips": ""
+            },
+            {
+              "url": "https://www.tailwindcss.com/docs/installation",
+              "name": "tailwindcss",
+              "desc": "tailwindcss",
+              "tips": ""
+            },
+            {
+              "url": "https://v3.cn.vuejs.org/",
+              "name": "vue",
+              "desc": "vue",
+              "tips": ""
+            },
+            {
+              "url": "https://laravel.com/",
+              "name": "laravel",
+              "desc": "laravel",
+              "tips": ""
+            },
+            {
+              "url": "https://www.docker.com",
+              "name": "docker",
+              "desc": "docker",
+              "tips": ""
+            },
+            {
+              "url": "https://web.qianguyihao.com",
+              "name": "前端学习",
+              "desc": "前端学习",
+              "tips": ""
+            },
+            {
+              "url": "https://refactoringguru.cn/",
+              "name": "refactoringguru",
+              "desc": "设计模式",
+              "tips": ""
+            }
+          ]
+        },
+        {
+          "id": "Tutorials",
+          "name": "Tutorials",
+          "icon": "BookOpenIcon",
+          "list": [
+            {
+              "url": "https://hackintosh.com/",
+              "name": "黑苹果",
+              "desc": "黑苹果教程",
+              "tips": ""
+            },
+            {
+              "url": "https://pimylifeup.com/",
+              "name": "玩树莓派",
+              "desc": "玩法，攻略",
+              "tips": ""
+            }
+          ]
+        },
+        {
+          "id": "环境",
+          "name": "环境",
+          "icon": "CloudIcon",
+          "list": [
+            {
+              "url": "https://waqi.info/",
+              "name": "AQI",
+              "desc": "空气污染实时检索",
+              "tips": ""
+            }
+          ]
+        },
+        {
+          "id": "PC DIY",
+          "name": "PC DIY",
+          "icon": "WrenchIcon",
+          "list": [
+            {
+              "url": "https://www.whatpsu.com/",
+              "name": "whatpsu",
+              "desc": "根据CPU和GPU型号计算电源额定功率",
+              "tips": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tracker-net",
+      "name": "TRACKER NET",
+      "icon": "GlobeAltIcon",
+      "color": "amber",
+      "groups": [
+        {
+          "id": "PT站",
+          "name": "PT站",
+          "icon": "FilmIcon",
+          "list": [
+            {
+              "url": "https://pt.btschool.club/",
+              "name": "PTSCHOOL",
+              "desc": "PTSCHOOL",
+              "tips": ""
+            },
+            {
+              "url": "https://pt.soulvoice.club/",
+              "name": "聆音Club",
+              "desc": "聆音Club",
+              "tips": ""
+            },
+            {
+              "url": "https://hd-space.org/",
+              "name": "HD-Space",
+              "desc": "HD-Space",
+              "tips": ""
+            },
+            {
+              "url": "https://www.torrentleech.org/",
+              "name": "torrentleech",
+              "desc": "torrentleech",
+              "tips": ""
+            },
+            {
+              "url": "https://theempire.click/",
+              "name": "Theempire",
+              "desc": "Theempire",
+              "tips": ""
+            },
+            {
+              "url": "https://jptv.club/",
+              "name": "JPTV",
+              "desc": "JPTV",
+              "tips": ""
+            },
+            {
+              "url": "https://fearnopeer.com/",
+              "name": "FNP",
+              "desc": "FNP",
+              "tips": ""
+            }
+          ]
+        },
+        {
+          "id": "Semi-private Trackers",
+          "name": "Semi-private Trackers",
+          "icon": "FilmIcon",
+          "list": [
+            {
+              "url": "https://rutracker.org/",
+              "name": "rutracker",
+              "desc": "rutracker",
+              "tips": ""
+            }
+          ]
+        },
+        {
+          "id": "Public Trackers",
+          "name": "Public Trackers",
+          "icon": "FilmIcon",
+          "list": [
+            {
+              "url": "https://thepiratebay.org/",
+              "name": "thepiratebay",
+              "desc": "thepiratebay",
+              "tips": ""
+            },
+            {
+              "url": "https://btdig.com/",
+              "name": "btdig",
+              "desc": "btdig",
+              "tips": ""
+            }
+          ]
+        },
+        {
+          "id": "Porn Private Trackers",
+          "name": "Porn Private Trackers",
+          "icon": "FilmIcon",
+          "list": [
+            {
+              "url": "https://ssl.bootytape.com/",
+              "name": "bootytape",
+              "desc": "bootytape",
+              "unavailableForCN": true,
+              "tips": ""
+            },
+            {
+              "url": "http://rousi.pro/",
+              "name": "Rousi",
+              "desc": "站长说这是Rousi的PT站.",
+              "unavailableForCN": true,
+              "tips": ""
+            },
+            {
+              "url": "http://pussytorrents.org/",
+              "name": "PussyTorrents",
+              "desc": "PussyTorrents",
+              "unavailableForCN": true,
+              "tips": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comm-link",
+      "name": "COMM LINK",
+      "icon": "ChatBubbleLeftRightIcon",
+      "color": "magenta",
+      "groups": [
+        {
+          "id": "社区",
+          "name": "社区",
+          "icon": "PlayIcon",
+          "list": [
+            {
+              "url": "https://github.com/trending",
+              "name": "Trending",
+              "desc": "Github Trending",
+              "tips": ""
+            },
+            {
+              "url": "https://crinacle.com/",
+              "name": "Crinacle Rankings for IEM and Headphones",
+              "desc": "关注度较高的耳机排名榜单",
+              "tips": ""
+            },
+            {
+              "url": "https://www.rtings.com/",
+              "name": "评测打分网站",
+              "desc": "评测打分网站",
+              "tips": "Find the best products for your needs, based on our reviews, ratings and recommendations."
+            },
+            {
+              "url": "https://www.head-fi.org/",
+              "name": "Head-Fi",
+              "desc": "Head-Fi",
+              "tips": ""
+            },
+            {
+              "url": "http://erji.net/",
+              "name": "耳机大家坛",
+              "desc": "耳机大家坛"
+            },
+            {
+              "url": "https://www.reddit.com/",
+              "name": "Reddit",
+              "desc": "Reddit",
+              "unavailableForCN": true,
+              "tips": ""
+            },
+            {
+              "url": "https://dev.to/",
+              "name": "DEV",
+              "desc": "DEV Community 👩‍💻👨‍💻",
+              "tips": ""
+            },
+            {
+              "url": "https://v2ex.com/",
+              "name": "V2EX",
+              "desc": "社区",
+              "unavailableForCN": true,
+              "tips": ""
+            },
+            {
+              "url": "https://www.hackernoon.com/",
+              "name": "hackernoon",
+              "desc": "hackernoon",
+              "tips": ""
+            },
+            {
+              "url": "https://news.ycombinator.com/",
+              "name": "Hacker News",
+              "desc": "Hacker News",
+              "tips": ""
+            },
+            {
+              "url": "https://www.github.com/",
+              "name": "github",
+              "desc": "github",
+              "tips": ""
+            },
+            {
+              "url": "https://bbs.oldmantvg.net/",
+              "name": "老男人论坛",
+              "desc": "",
+              "tips": ""
+            },
+            {
+              "url": "https://hostloc.com/",
+              "name": "全球主机交流",
+              "desc": "",
+              "tips": ""
+            }
+          ]
+        },
+        {
+          "id": "游戏社区",
+          "name": "游戏社区",
+          "icon": "PlayIcon",
+          "list": [
+            {
+              "url": "https://helltides.com/",
+              "name": "Helltide Schedule",
+              "desc": "地狱浪潮,世界Boss,军团集结时间表",
+              "tips": ""
+            },
+            {
+              "url": "https://d4builds.gg/",
+              "name": "d4builds.gg",
+              "desc": "暗黑四加点参考",
+              "tips": ""
+            },
+            {
+              "url": "https://www.icy-veins.com/",
+              "name": "icy-veins",
+              "desc": "新闻，攻略",
+              "tips": ""
+            },
+            {
+              "url": "https://gnn.gamer.com.tw/",
+              "name": "巴哈姆特",
+              "desc": "巴哈姆特",
+              "tips": ""
+            },
+            {
+              "url": "https://www.d2core.com/",
+              "name": "暗黑核",
+              "desc": "暗黑4技能模拟器、暗黑4巅峰模拟器，职业模拟、加点模拟、雕文模拟与分享",
+              "tips": ""
+            }
+          ]
+        },
+        {
+          "id": "Fediverse|联邦宇宙|去中心化社区群",
+          "name": "Fediverse|联邦宇宙|去中心化社区群",
+          "icon": "PlayIcon",
+          "list": [
+            {
+              "url": "https://fediverse.party/",
+              "name": "Fediverse",
+              "desc": "主站",
+              "tips": ""
+            },
+            {
+              "url": "https://fediverse.party/en/portal/servers/",
+              "name": "Themed servers",
+              "desc": "索引",
+              "tips": ""
+            },
+            {
+              "url": "https://mastodon.social/",
+              "name": "Mastodon",
+              "desc": "Mastodon",
+              "tips": ""
+            },
+            {
+              "url": "https://misskey.io/",
+              "name": "Misskey",
+              "desc": "Misskey",
+              "tips": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "media-deck",
+      "name": "MEDIA DECK",
+      "icon": "PlayIcon",
+      "color": "violet",
+      "groups": [
+        {
+          "id": "流媒体",
+          "name": "流媒体",
+          "icon": "PlayIcon",
+          "list": [
+            {
+              "url": "https://www.youtube.com",
+              "name": "油管",
+              "desc": "油管",
+              "unavailableForCN": true,
+              "tips": ""
+            },
+            {
+              "url": "https://www.netflix.com/",
+              "name": "网飞",
+              "desc": "奈飞",
+              "unavailableForCN": true,
+              "tips": ""
+            }
+          ]
+        },
+        {
+          "id": "播客",
+          "name": "播客",
+          "icon": "PlayIcon",
+          "list": [
+            {
+              "url": "https://podcasts.google.com/",
+              "name": "Google Podacsts",
+              "desc": "Google Podacsts",
+              "unavailableForCN": true,
+              "tips": ""
+            }
+          ]
+        },
+        {
+          "id": "HIFI",
+          "name": "HIFI",
+          "icon": "PlayIcon",
+          "list": [
+            {
+              "url": "https://doujinstyle.com/",
+              "name": "DoujinStyle",
+              "desc": "The Home of Doujin Music and Games",
+              "tips": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "data-vault",
+      "name": "DATA VAULT",
+      "icon": "ArchiveBoxIcon",
+      "color": "sky",
+      "groups": [
+        {
+          "id": "百科",
+          "name": "百科",
+          "icon": "BookOpenIcon",
+          "list": [
+            {
+              "url": "https://www.fandom.com/",
+              "name": "Fandom",
+              "desc": "全球最大娱乐游戏粉丝WIKI平台",
+              "unavailableForCN": true,
+              "tips": "The world's largest entertainment & gaming fan platform!"
+            },
+            {
+              "url": "https://www.wikipedia.org/",
+              "name": "维基百科",
+              "desc": "维基百科",
+              "unavailableForCN": true,
+              "tips": ""
+            }
+          ]
+        },
+        {
+          "id": "Future",
+          "name": "Future",
+          "icon": "RocketLaunchIcon",
+          "list": [
+            {
+              "url": "https://github.com/The-Run-Philosophy-Organization/run",
+              "name": "润学",
+              "desc": "迁徙自由，是基本人权； 当然了，讨论真理的言论自由也是基本人权之一。",
+              "unavailableForCN": true,
+              "tips": ""
+            },
+            {
+              "url": "https://www.icrc.org/en/nuclear-ban-treaty-no-to-nukes",
+              "name": "We won't survive in a nuclear attack.",
+              "desc": "Let's decide the future of nuclear weapons before they decide ours.",
+              "tips": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
