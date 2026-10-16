@@ -236,13 +236,6 @@
               "tips": ""
             },
             {
-              "url": "https://ingramer.com/downloader/instagram/",
-              "name": "instagram-download",
-              "desc": "instagram下载",
-              "unavailableForCN": true,
-              "tips": ""
-            },
-            {
               "url": "https://twittervideodownloader.com/",
               "name": "twitter-download",
               "desc": "twitter下载",
@@ -314,12 +307,6 @@
               "url": "https://cn.dll-files.com/",
               "name": "dll下载",
               "desc": "dll下载",
-              "tips": ""
-            },
-            {
-              "url": "https://ryzencontroller.com/",
-              "name": "AMD锐龙功耗调教",
-              "desc": "AMD锐龙功耗调教",
               "tips": ""
             },
             {
@@ -570,24 +557,6 @@
               "url": "https://www.torrentleech.org/",
               "name": "torrentleech",
               "desc": "torrentleech",
-              "tips": ""
-            },
-            {
-              "url": "https://theempire.click/",
-              "name": "Theempire",
-              "desc": "Theempire",
-              "tips": ""
-            },
-            {
-              "url": "https://jptv.club/",
-              "name": "JPTV",
-              "desc": "JPTV",
-              "tips": ""
-            },
-            {
-              "url": "https://fearnopeer.com/",
-              "name": "FNP",
-              "desc": "FNP",
               "tips": ""
             },
             {
